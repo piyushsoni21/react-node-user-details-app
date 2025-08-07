@@ -1,0 +1,1 @@
+{\n  "name": "user-details-server",\n  "version": "0.1.0",\n  "main": "app.js",\n  "license": "MIT",\n  "dependencies": {\n    "express": "^4.18.2"\n  },\n  "scripts": {\n    "start": "node app.js"\n  }\n}
